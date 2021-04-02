@@ -1,0 +1,1 @@
+The files in this folder exist to create text file outputs for Python-based fault detection.
